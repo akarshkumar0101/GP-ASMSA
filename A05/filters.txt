@@ -1,0 +1,10 @@
+circular filter
+put everything in rectangle to circle/oval
+
+triangle filter
+put everything into triangle
+
+invert color filter
+
+dimmer filter
+ - color every other pixel black
